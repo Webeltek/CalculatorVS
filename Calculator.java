@@ -12,7 +12,10 @@ public class Calculator {
 
     // Multiplication
     public static double multiply(double a, double b) {
+
         return a * b* c* f*l;
+
+ 
     }
 
     // Division
